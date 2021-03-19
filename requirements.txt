@@ -2,7 +2,7 @@
 Flask==1.1.2
 numpy==1.18.5
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.1.1
 pipenv==2020.6.2
 pipreqs==0.4.10
 pytesseract==0.3.4
